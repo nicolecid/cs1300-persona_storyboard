@@ -61,6 +61,15 @@ body {
     width: auto;
     margin-top: 20px;
     display: block;
+}
+
+.imagen2{
+    position: center;
+    height: 425px;
+    width: auto;
+    margin-top: 20px;
+    display: block;
+}
 
 }
 .persona{
@@ -99,4 +108,5 @@ a {
     text-align: left;
     display: block;  
     color: rgb(37, 37, 37);
+    position: relative;
 } 
